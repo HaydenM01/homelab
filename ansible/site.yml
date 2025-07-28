@@ -1,0 +1,6 @@
+---
+- hosts: all
+  tasks:
+    - name: Sample playbook
+      debug:
+        msg: "Ansible is working!"
