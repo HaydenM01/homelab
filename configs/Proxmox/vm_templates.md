@@ -45,18 +45,32 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 
-## Template: Ubuntu OS
+## Template: Ubuntu OS (WIP)
 
 ### Description:
+To simulate attacks on other machines for security testing. (Work in progress)
 
 ### Specs:
+- Base Image: Ubuntu V. 25.04
+- Disk Size: 32 GB
+- Cores: 2
+- RAM: 4096 MB
+- Network: vmbr0 (bridged)
 
 ### How to recreate:
+Simple VM using Ubuntu iso for installation.
 
-## Template: Windows DC and Client 
+## Template: Windows DC and Client (WIP)
 
 ### Description:
+Acts as a centralized identity and autheentication system simulating a corporate AD environment.
 
 ### Specs:
+- Base Image: Windows Server 2019 & Windows 11 Pro
+- Disk Size: 60 GB
+- Cores: 4 total (2 core each)
+- RAM: 8192 MB (4096 MB each)
+- Network: vmbr0 (bridged)
 
 ### How to recreate:
+One VM with Windows Server 2019 iso and one with a Windows 11 Pro iso.
