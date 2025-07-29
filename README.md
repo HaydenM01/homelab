@@ -16,7 +16,7 @@ Welcome to my homelab documentation repo! This project serves as a record of my 
 | RPi 5             | Pi-hole / DNS     | Raspberry Pi OS |
 | TP-Link TL-SG108PE  | VLAN switch       | Managed         |
 | Netgear Nighthawk | Access Point | AC2600 |
-| Netgear Nighthawk | Cable Modem | AC1900 |
+| Netgear Nighthawk | Cable Modem | CM1000 |
 
 More in [`hardware/inventory.md`](hardware/inventory.md)
 
@@ -44,9 +44,10 @@ Fixes and issues documented in [`logs/troubleshooting.md`](logs/troubleshooting.
 
 ## 🚧 Work in Progress
 
-- VLANs and inter-VLAN routing
-- Monitoring with Grafana
-- VPN with WireGuard
+- Unbound for recursive DNS resolver.
+- NGINX proxy manager for reverse proxy.
+- Wireguard VPN
+- Netdata for monitoring.
 
 ## 📜 License
 
