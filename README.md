@@ -26,7 +26,7 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 
 ## ⚙️ Configuration Snapshots
 
-- Firewall rules (pfSense): [`configs/pfSense/`](configs/pfSense/)
+- Firewall rules (OPNsense): [`configs/OPNsense/`](configs/OPNsense/)
 - VM templates (Proxmox): [`configs/Proxmox/`](configs/Proxmox/)
 - Web server config (nginx): [`configs/nginx/`](configs/nginx/)
 
