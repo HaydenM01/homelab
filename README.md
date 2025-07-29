@@ -28,7 +28,6 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 
 - Firewall rules (OPNsense): [`configs/OPNsense/`](configs/OPNsense/)
 - VM templates (Proxmox): [`configs/Proxmox/`](configs/Proxmox/)
-- Web server config (nginx): [`configs/nginx/`](configs/nginx/)
 
 ## 🐞 Troubleshooting Log
 
