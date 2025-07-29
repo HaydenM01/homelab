@@ -5,16 +5,18 @@ Welcome to my homelab documentation repo! This project serves as a record of my 
 ## 🌐 Overview
 
 - **Purpose:** Learn networking, system administration, security, and virtualization.
-- **Main Tools:** pfSense, Proxmox, Docker, Ansible, Pi-hole, etc.
+- **Main Tools:** OPNsense, Proxmox, Docker, Ansible, Pi-hole, etc.
 
 ## 🖥️ Hardware Inventory
 
-| Device        | Purpose         | OS / Firmware |
-|---------------|------------------|----------------|
-| OptiPlex 7010 | pfSense firewall | pfSense CE     |
-| ThinkCentre   | Proxmox host     | Proxmox VE     |
-| RPi 4         | Pi-hole / DNS    | Raspberry Pi OS|
-| Netgear GS108 | VLAN switch      | Managed        |
+| Device            | Purpose           | OS / Firmware   |
+|-------------------|-------------------|-----------------|
+| ThinkCentre m910q x2 | Proxmox host      | Proxmox VE      |
+| ThinkCentre M93P  | OPNsense firewall | OPNsense        |
+| RPi 5             | Pi-hole / DNS     | Raspberry Pi OS |
+| TP-Link TL-SG108PE  | VLAN switch       | Managed         |
+| Netgear Nighthawk | Access Point | AC2600 |
+| Netgear Nighthawk | Cable Modem | AC1900 |
 
 More in [`hardware/inventory.md`](hardware/inventory.md)
 
