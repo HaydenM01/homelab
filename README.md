@@ -30,14 +30,6 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 - VM templates (Proxmox): [`configs/Proxmox/`](configs/Proxmox/)
 - Web server config (nginx): [`configs/nginx/`](configs/nginx/)
 
-## 🤖 Automation
-
-See [`ansible/`](ansible/) directory for playbooks.
-
-## 🛠️ Scripts
-
-All scripts in [`scripts/`](scripts/)
-
 ## 🐞 Troubleshooting Log
 
 Fixes and issues documented in [`logs/troubleshooting.md`](logs/troubleshooting.md)
