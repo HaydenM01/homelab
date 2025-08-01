@@ -35,7 +35,6 @@ Fixes and issues documented in [`logs/troubleshooting.md`](logs/troubleshooting.
 
 ## 🚧 Work in Progress
 
-- Unbound for recursive DNS resolver.
 - NGINX proxy manager for reverse proxy.
 - Wireguard VPN
 - Netdata for monitoring.

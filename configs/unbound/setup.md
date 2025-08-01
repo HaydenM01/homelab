@@ -51,9 +51,9 @@ sudo service unbound restart
 5. Point Pi-hole to Unbound
 
    Go to the Pi-hole admin Interface:
-   - Navigate to settigns > DNS
+   - Navigate to settings > DNS
    - Uncheck any current upstream DNS servers
-   - In the Custome 1 (IPv4) field, enter:
+   - In the Custom 1 (IPv4) field, enter:
 ```bash
 127.0.0.1#5335
 ```
