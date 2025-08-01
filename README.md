@@ -5,7 +5,7 @@ Welcome to my homelab documentation repo! This project serves as a record of my 
 ## 🌐 Overview
 
 - **Purpose:** Learn networking, system administration, security, and virtualization.
-- **Main Tools:** OPNsense, Proxmox, Docker, Ansible, Pi-hole, etc.
+- **Main Tools:** OPNsense, Proxmox, Docker, Pi-hole, etc.
 
 ## 🖥️ Hardware Inventory
 
