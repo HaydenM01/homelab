@@ -39,7 +39,7 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 - Nginx (Web Server): [`docker/containers/nginx/`](docker/containers/nginx/)
 - Uptime Kuma (Monitoring): [`docker/containers/uptimekuma/`](docker/containers/uptimekuma/)
 - Watchtower (Auto-updates): [`docker/containers/watchtower/`](docker/containers/watchtower/)
-- Homepage (Homepage): 
+- Homepage (Homepage): [`docker/containers/homepage/`](docker/containers/homepage/)
 
 ## 🐞 Troubleshooting Log
 
