@@ -1,4 +1,10 @@
-# Setup
+## Watchtower
+
+### Description
+
+Automates the process of updating Docker containers.
+
+### Deployment
 
 Docker Run
 ```bash
