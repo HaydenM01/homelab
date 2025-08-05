@@ -28,6 +28,12 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 
 - Firewall rules (OPNsense): [`configs/OPNsense/`](configs/OPNsense/)
 - VM templates (Proxmox): [`configs/Proxmox/`](configs/Proxmox/)
+- Unbound Setup (Undbound): [`configs/unbound/`](configs/unbound/)
+- Pihole Setup (pihole): [`configs/pihole/`](configs/pihole/)
+
+## 🐋 Docker Containers
+
+- 
 
 ## 🐞 Troubleshooting Log
 
@@ -35,9 +41,8 @@ Fixes and issues documented in [`logs/troubleshooting.md`](logs/troubleshooting.
 
 ## 🚧 Work in Progress
 
-- NGINX proxy manager for reverse proxy.
+- Some centralized password management. Bitwarden?
 - Wireguard VPN
-- Netdata for monitoring.
 
 ## 📜 License
 
