@@ -33,7 +33,13 @@ More in [`hardware/inventory.md`](hardware/inventory.md)
 
 ## 🐋 Docker Containers
 
-- 
+- Portainer (Web UI manager): [`docker/containers/portainer/`](docker/containers/portainer/)
+- Adminer (DB UI): [`docker/containers/adminer/`](docker/containers/adminer/)
+- Postgres (Database): [`docker/containers/postgres/`](docker/containers/postgres/)
+- Nginx (Web Server): [`docker/containers/nginx/`](docker/containers/nginx/)
+- Uptime Kuma (Monitoring): [`docker/containers/uptimekuma/`](docker/containers/uptimekuma/)
+- Watchtower (Auto-updates): [`docker/containers/watchtower/`](docker/containers/watchtower/)
+- Homepage (Homepage): 
 
 ## 🐞 Troubleshooting Log
 
